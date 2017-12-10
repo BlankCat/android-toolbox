@@ -1,1 +1,1 @@
-include ':sample', ':androidtoolbox'
+include ':sample', ':tool4a', ':tool4j'
